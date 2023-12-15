@@ -1,2 +1,4 @@
 # IOT_SHAL
 Smart Home Asset Locator
+
+Video demo: https://mailmissouri-my.sharepoint.com/:v:/g/personal/nkhm4_umsystem_edu/EdKtqmEkKcNEvmw92yTRzCgBsO5cLCMI58VYmmqDxcgP6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5ymAQf
